@@ -1,0 +1,1 @@
+/root/cyberchop/bin/cyberchop.sh
